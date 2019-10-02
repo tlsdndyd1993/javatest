@@ -9,7 +9,7 @@ public class test_02_3_unicode_boolean {
 		char ch5 = 0xD5D0;
 		char ch6 = 0xD655;
 		System.out.println(ch1 + " " + ch2);
-		System.out.println(ch3 + " " + ch4);
+		System.out.println(ch3 + " " + ch4); 
 		System.out.println(ch5 + " " + ch6);
 		
 		
